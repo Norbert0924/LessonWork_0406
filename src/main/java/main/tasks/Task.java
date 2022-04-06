@@ -9,9 +9,12 @@ public class Task {
      */
     public static int findNthPrime(int n) {
         /*
+
         használd a WithoutTest osztályban lévő isPrime metódust - például így:
         boolean isPrime = WithoutTest.isPrime(2);
          */
+
+
         return -1;
     }
 
